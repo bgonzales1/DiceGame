@@ -1,0 +1,135 @@
+body {
+  background-color: #03CEA4;
+  color: #170312;
+  font-size: 20px;
+  font-family:'Arial';
+  text-align: center;
+}
+
+.Dice_Game {
+  text-align: center;
+  font-weight: bold;
+  color: #170312;
+  font-size: 50px;
+  font-family:'Arial';
+  transform: rotate(-2deg);
+}
+
+.picked{
+  text-align: center;
+  font-weight: bold;
+  color: #170312;
+  font-size: 20px;
+  font-family:'Arial';
+}
+
+.Dice_image{
+  padding-left: 10px;
+  float: left;
+  clear: both;
+}
+
+.onDie{
+  text-align: center;
+  font-weight: bold;
+  color: #170312;
+  font-size: 20px;
+  font-family:'Arial';
+}
+
+.rollButton{
+  background-color: #EAC435;
+  color: #170312;
+  border-color: 1px #170312;
+  text-align: center;
+  font-family:'Arial';
+  font-size:25px;
+  font-weight: bold;
+}
+
+.scoreButton{
+  background-color: #345995;
+  font-family:'Arial';
+  border-color: 1px #170312;
+  color: #EAC435;
+  text-align: center;
+  font-size:25px;
+}
+
+.box {
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  color: #170312;
+  font-family: 'Arial';
+  font-weight: bold;
+  align-items: stretch;
+  float: right;
+  border: 6px solid #345995;
+  padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right:5px;
+  justify-content: space-between;
+  width: 80xp;
+}
+
+.oneButton{
+  background-color: #03CEA4;
+  color: #170312;
+  border-color: 1px #EAC435;
+  text-align: center;
+  font-family:'Arial';
+  font-size:20px;
+  font-weight: bold;
+}
+
+.twoButton{
+  background-color: #03CEA4;
+  color: #170312;
+  border-color: 1px #EAC435;
+  text-align: center;
+  font-family:'Arial';
+  font-size:20px;
+  font-weight: bold;
+}
+
+.threeButton{
+  background-color: #03CEA4;
+  color: #170312;
+  border-color: 1px #EAC435;
+  text-align: center;
+  font-family:'Arial';
+  font-size:20px;
+  font-weight: bold;
+}
+
+.fourButton{
+  background-color: #03CEA4;
+  color: #170312;
+  border-color: 1px #EAC435;
+  text-align: center;
+  font-family:'Arial';
+  font-size:20px;
+  font-weight: bold;
+}
+
+.fiveButton{
+  background-color: #03CEA4;
+  color: #170312;
+  border-color: 1px #EAC435;
+  text-align: center;
+  font-family:'Arial';
+  font-size:20px;
+  font-weight: bold;
+}
+
+.sixButton{
+  background-color: #03CEA4;
+  color: #170312;
+  border-color: 1px #EAC435;
+  text-align: center;
+  font-family:'Arial';
+  font-size:20px;
+  font-weight: bold;
+}
